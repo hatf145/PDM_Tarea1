@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sesion 5</string>
+    <string name="name">Ingrese su nombre</string>
+    <string name="phone">Ingrese su telefono</string>
+    <string name="studies">Escolaridad</string>
+    <string name="gender">Género</string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="favBook">Libro favorito</string>
+    <string name="sports">Practica deporte</string>
+    <string name="clean">Limpiar</string>
+
+    <string-array name="books">
+        <item>His Dark Materials</item>
+        <item>The Book Of Dust</item>
+        <item>Lyra\'s Oxford</item>
+        <item>The Madman\'s Tale</item>
+        <item>The Professor</item>
+        <item>Call Me By Your Name</item>
+    </string-array>
+    <string-array name="degree">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
